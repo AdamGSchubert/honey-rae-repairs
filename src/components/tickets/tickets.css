@@ -8,3 +8,7 @@
     padding: 0.7rem;
     margin: .5rem;
 }
+.ticket__delete{
+    margin-left:auto;
+    background-color: lightcoral;
+}
